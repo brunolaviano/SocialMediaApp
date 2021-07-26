@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8gd5HuO1VSm1JwFkZ4AQBqlVX2wnZkOKT9LUDr8dEuUGmRmAHhdS/l6ueHubgJlJCF19EIztXYYETB5SPBxhhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Repositorios\\SocialMedia\\RESTFul\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno Laviano\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno Laviano\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno Laviano\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
